@@ -1,10 +1,10 @@
 ## Ivan Angelov — Senior Platform Engineer
 
 Production Kubernetes on OCI · ArgoCD · GitOps · Terraform · Ansible
+
 Full observability stack: Prometheus · Grafana · Loki · Tempo · Linkerd
 
-Self-hosted AI stack: llama-server (Vulkan/RDNA4) · BGE-M3 embeddings · 
-Qdrant · FastAPI RAG proxy · OpenClaw AI gateway
+Self-hosted AI stack: llama-server (Vulkan/RDNA4) · BGE-M3 embeddings · Qdrant · FastAPI RAG proxy · OpenClaw AI gateway
 
 📍 Bulgaria, EU — open to remote roles
 
