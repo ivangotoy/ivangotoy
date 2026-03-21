@@ -8,6 +8,6 @@ Self-hosted AI stack: llama-server (Vulkan/RDNA4) · BGE-M3 embeddings · Qdrant
 
 📍 Bulgaria, EU — open to remote roles
 
-🔗 linkedin.com/in/ivan-angelov-linux-devops-sofia
+🔗 [linkedin.com/in/ivan-angelov-linux-devops-sofia](https://linkedin.com/in/ivan-angelov-linux-devops-sofia)
 
-📊 Live Grafana dashboards: https://digtvbg.com:3000/dashboards
+📊 [Live Grafana dashboards](https://digtvbg.com:3000/dashboards)
