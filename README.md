@@ -1,16 +1,13 @@
-## Hi there 👋
+## Ivan Angelov — Senior Platform Engineer
 
-<!--
-**ivangotoy/ivangotoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Production Kubernetes on OCI · ArgoCD · GitOps · Terraform · Ansible
+Full observability stack: Prometheus · Grafana · Loki · Tempo · Linkerd
 
-Here are some ideas to get you started:
+Self-hosted AI stack: llama-server (Vulkan/RDNA4) · BGE-M3 embeddings · 
+Qdrant · FastAPI RAG proxy · OpenClaw AI gateway
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Bulgaria, EU — open to remote roles
+
+🔗 linkedin.com/in/ivan-angelov-linux-devops-sofia
+
+📊 Live Grafana dashboards: https://digtvbg.com:3000/dashboards
