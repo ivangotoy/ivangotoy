@@ -1,5 +1,5 @@
 ## Ivan Angelov — Senior Platform Engineer
-
+![](github-intro.gif)
 Production Kubernetes on OCI · ArgoCD · GitOps · Terraform · Ansible
 
 Full observability stack: Prometheus · Grafana · Loki · Tempo · Linkerd
