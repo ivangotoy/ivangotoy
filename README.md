@@ -4,7 +4,7 @@ Production Kubernetes on OCI · ArgoCD · GitOps · Terraform · Ansible
 
 Full observability stack: Prometheus · Grafana · Loki · Tempo · Linkerd
 
-Self-hosted AI stack: llama-server (Vulkan/RDNA4) · BGE-M3 embeddings · Qdrant · FastAPI RAG proxy · OpenClaw AI gateway
+Self-hosted AI stack: llama-server (Vulkan/RDNA4) · llama.cpp · Qwen3.5-9B-UD-Q6_K_XL · Qwen3-Embedding-0.6B-Q8_0 · Qwen3-Reranker-0.6B.Q8_0 · Qdrant · FastAPI RAG proxy · OpenClaw AI gateway 
 
 📍 Bulgaria, EU — open to remote roles
 
