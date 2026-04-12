@@ -1,3 +1,6 @@
+> ⚠️ **Mirror.** Primary repository: [git.digtvbg.com](https://git.digtvbg.com/ivangotoy/ivangotoy)
+> Development, issues, and PRs happen there. The GitHub repo is read-only.
+
 ## Ivan Angelov — Senior Platform Engineer
 ![](github-intro.gif)
 Production Kubernetes on OCI · ArgoCD · GitOps · Terraform · Ansible
