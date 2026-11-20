@@ -1,5 +1,6 @@
-> ⚠️ **Mirror.** Primary repository: [git.digtvbg.com](https://git.digtvbg.com/ivangotoy/ivangotoy)
-> Development, issues, and PRs happen there. The GitHub repo is read-only.
+> [!NOTE]
+> 🏡 **Home:** [git.digtvbg.com/ivangotoy/ivangotoy](https://git.digtvbg.com/ivangotoy/ivangotoy), where code, issues and releases live.
+> 🪞 **Mirror:** [github.com/ivangotoy/ivangotoy](https://github.com/ivangotoy/ivangotoy), read-only, synced automatically.
 
 ## Ivan Angelov — Senior Platform Engineer
 ![](github-intro.gif)
