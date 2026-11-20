@@ -1,6 +1,5 @@
-> [!NOTE]
-> 🏡 **Home:** [git.digtvbg.com/ivangotoy/ivangotoy](https://git.digtvbg.com/ivangotoy/ivangotoy), where code, issues and releases live.
-> 🪞 **Mirror:** [github.com/ivangotoy/ivangotoy](https://github.com/ivangotoy/ivangotoy), read-only, synced automatically.
+> 🏠 **Home:** [git.digtvbg.com/ivangotoy/ivangotoy](https://git.digtvbg.com/ivangotoy/ivangotoy)\
+> 🔄 **Mirror:** [github.com/ivangotoy/ivangotoy](https://github.com/ivangotoy/ivangotoy) (read-only)
 
 ## Ivan Angelov — Senior Platform Engineer
 ![](github-intro.gif)
